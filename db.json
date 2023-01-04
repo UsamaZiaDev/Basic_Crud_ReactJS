@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employee_Name": "Stephens Pate",
+      "department_Name": "Monique",
+      "gender": "female",
+      "company": "UNIA",
+      "email": "moniquepate@unia.com"
+    },
+    {
+      "id": 2,
+      "employee_Name": "Kerri Acevedo",
+      "department_Name": "Camille",
+      "gender": "female",
+      "company": "KOOGLE",
+      "email": "camilleacevedo@koogle.com"
+    },
+    {
+      "id": 3,
+      "employee_Name": "Saundra Dale",
+      "department_Name": "Autumn",
+      "gender": "female",
+      "company": "SKYPLEX",
+      "email": "autumndale@skyplex.com"
+    },
+    {
+      "id": 4,
+      "employee_Name": "Barton Kramer",
+      "department_Name": "Whitehead",
+      "gender": "male",
+      "company": "DIGIQUE",
+      "email": "whiteheadkramer@digique.com"
+    },
+    {
+      "id": 5,
+      "employee_Name": "Cleo Decker",
+      "department_Name": "Inez",
+      "gender": "female",
+      "company": "SHEPARD",
+      "email": "inezdecker@shepard.com"
+    },
+    {
+      "id": 6,
+      "employee_Name": "Blanche Kirby",
+      "department_Name": "Isabel",
+      "gender": "female",
+      "company": "GEEKY",
+      "email": "isabelkirby@geeky.com"
+    },
+    {
+      "id": 7,
+      "employee_Name": "Gwendolyn Johnson",
+      "department_Name": "Tanya",
+      "gender": "female",
+      "company": "ZORK",
+      "email": "tanyajohnson@zork.com"
+    },
+    {
+      "id": 8,
+      "employee_Name": "Aisha Suarez",
+      "department_Name": "Vega",
+      "gender": "male",
+      "company": "MULTIFLEX",
+      "email": "vegasuarez@multiflex.com"
+    },
+    {
+      "id": 9,
+      "employee_Name": "Sybil Sargent",
+      "department_Name": "Butler",
+      "gender": "male",
+      "company": "PODUNK",
+      "email": "butlersargent@podunk.com"
+    },
+    {
+      "id": 10,
+      "employee_Name": "Oconnor Cantrell",
+      "department_Name": "Cochran",
+      "gender": "male",
+      "company": "BLUEGRAIN",
+      "email": "cochrancantrell@bluegrain.com"
+    },
+    {
+      "id": 11,
+      "employee_Name": "Freeman Carlson",
+      "department_Name": "Jessie",
+      "gender": "female",
+      "company": "MANTRIX",
+      "email": "jessiecarlson@mantrix.com"
+    },
+    {
+      "id": 12,
+      "employee_Name": "Valeria Curtis",
+      "department_Name": "Patricia",
+      "gender": "female",
+      "company": "FIBEROX",
+      "email": "patriciacurtis@fiberox.com"
+    },
+    {
+      "id": 13,
+      "employee_Name": "Lesa Hewitt",
+      "department_Name": "Hawkins",
+      "gender": "male",
+      "company": "SHADEASE",
+      "email": "hawkinshewitt@shadease.com"
+    },
+    {
+      "id": 14,
+      "employee_Name": "Puckett Cunningham",
+      "department_Name": "Dorthy",
+      "gender": "female",
+      "company": "ISOTRONIC",
+      "email": "dorthycunningham@isotronic.com"
+    },
+    {
+      "id": 15,
+      "employee_Name": "Crane Castro",
+      "department_Name": "Patrica",
+      "gender": "female",
+      "company": "KIDSTOCK",
+      "email": "patricacastro@kidstock.com"
+    },
+    {
+      "id": 16,
+      "employee_Name": "Letha Lindsay",
+      "department_Name": "Norman",
+      "gender": "male",
+      "company": "AQUAZURE",
+      "email": "normanlindsay@aquazure.com"
+    },
+    {
+      "id": 17,
+      "employee_Name": "Bishop Hart",
+      "department_Name": "Nielsen",
+      "gender": "male",
+      "company": "REALMO",
+      "email": "nielsenhart@realmo.com"
+    },
+    {
+      "id": 18,
+      "employee_Name": "Adrian Wheeler",
+      "department_Name": "Solomon",
+      "gender": "male",
+      "company": "TETRATREX",
+      "email": "solomonwheeler@tetratrex.com"
+    },
+    {
+      "id": 19,
+      "employee_Name": "Daniel Meyers",
+      "department_Name": "Angeline",
+      "gender": "female",
+      "company": "DELPHIDE",
+      "email": "angelinemeyers@delphide.com"
+    },
+    {
+      "id": 20,
+      "employee_Name": "Meghan Cherry",
+      "department_Name": "Maricela",
+      "gender": "female",
+      "company": "VELITY",
+      "email": "maricelacherry@velity.com"
+    }
+  ]
+}
